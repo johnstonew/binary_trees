@@ -2,7 +2,8 @@
 
 /**
  * binary_tree_preorder - goes through a binary tree using pre-order traversal
- *
+ * @tree: the tree
+ * @func: the function
  * Return: If error occurs return NULL else pointer of new node
  */
 
